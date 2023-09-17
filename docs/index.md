@@ -1,4 +1,4 @@
-<img src="docs/images/LogoEFAA.png" width="250"  />
+![logo](images/LogoEFAA.png)
 
 # Finance, Mathematics and Programming
 
