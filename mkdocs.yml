@@ -2,6 +2,9 @@
 
 site_name: Efaa
 
+authors:
+  Efaa
+
 theme:
   name: material
   palette:
@@ -33,9 +36,14 @@ theme:
 
 copyright: Copyright &copy; 2017 - 2023 Alvaro Díaz Valenzuela
 
-nav:
-  - Home: index.md
-  - Canal YouTube: YouTubeChannel.md
+#nav:
+#  - Home: index.md
+#  - Canal YouTube: YouTubeChannel.md
+
+plugins:
+  - blog:
+      enabled: true
+      blog_toc: true
 
 markdown_extensions:
   toc:
