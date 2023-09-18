@@ -1,9 +1,11 @@
 ![logo](./images/LogoEFAA.png)
 
-# Finance, Mathematics and Programming
+# About 
 
-There's a little bit of everything around here. It all reflects my personal interests, opinions and the things I am working on at the moment.
+I am a mathematician, financial analyst, software engineer based in Chile. I work with Postgresql, C++ and Python and my expertise is in financial applications related to derivative products and market risk management.
 
-Content is organized chronogically, but keywords (and titles of course) reflect the specific topic of each piece. Hope you find it helpful.
+I have trained many Chilean professionals working in the banking sector, mainly front office traders and market risk analysts.
 
-There might be some *Spanglish* ... you've been warned.
+I currently work at Banco Internacional (BI) as part of the dev team working on Treasury systems.
+
+My focus nowadays is the C++/Python library `qcfinancial` which powers the analytics related to derivatives and market risk at BI. For those interested, documentation can be found at [Efaa Docs](https://www.efaa.cl/qc_financial-help)
